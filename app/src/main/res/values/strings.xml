@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name" translatable="false">2020-04-10132</string>
+    <string name="open" translatable="false">open</string>
+    <string name="close" translatable="false">close</string>
+    <string name="donation" translatable="false">
+        Donation Links:
+        \n
+        \nDetails to donate to Chief Ministers Relief Fund (CMRF):
+        \nBank Name: STATE BANK OF INDIA
+        \nBranch Name: SECRETARIAT BRANCH ITANAGAR
+        \nBranch Code: 61325
+        \nCMRF Account No.: 10940061389
+        \nIFSC Code: SBIN0061325
+    </string>
+    <string name="ref_city">
+        References for more information:
+        \n
+        \nArunachal Pradesh State Control Room\n
+        (Information Centre for COVID-19): \n
+        http://covid19.itanagarsmartcity.in/
+        \n
+        \nGovernment of India: \n
+        https://www.mygov.in/covid-19/
+        \n
+        \nMinistry of Health and Family Welfare, \n
+        Government of India: \n
+        https://www.mohfw.gov.in/\n
+        \n
+        World Health Organization:
+        \nhttps://www.who.int/health-topics/coronavirus#tab=ta
+    </string>
+
+    <string name="about">
+   <b>
+      <font size="30">About COVID-19</font>
+   </b>
+   \n \nCoronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. \n \nMost people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment. Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness. \n \nThe best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. \n \nThe COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow). \n
+</string>
+    <string name="precautions">
+       <b>
+      <font size="30">Precautions</font>
+   </b>
+        \n
+        \nTo prevent infection and to slow transmission of COVID-19, do the following:
+        \n
+        \n1] Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.
+        \n2] Maintain at least 1 metre distance between you and people coughing or sneezing.
+        \n3] Avoid touching your face.
+        \n4] Cover your mouth and nose when coughing or sneezing.
+        \n5] Stay home if you feel unwell.
+        \n6] Refrain from smoking and other activities that weaken the lungs.
+        \n7] Practice physical distancing by avoiding unnecessary travel and staying away from large groups of people.
+    </string>
+    <string name="symptoms">
+        <b>
+      <font size="30">Symptoms</font>
+   </b>
+        \n
+        \nCOVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.
+        \n
+        \n<i>Most common symptoms:</i>
+            \n1] fever
+            \n2] dry cough
+            \n3] tiredness
+        \n
+        \n<i>Less common symptoms:</i>
+            \n1] aches and pains
+            \n2] sore throat
+            \n3] diarrhoea
+            \n4] conjunctivitis
+            \n5] headache
+            \n6] loss of taste or smell
+            \n7] a rash on skin, or discolouration of fingers or toes
+        \n
+        \n<i>Serious symptoms:</i>
+        \n1] difficulty breathing or shortness of breath
+        \n2] chest pain or pressure
+        \n3] loss of speech or movement
+        \n
+        \nSeek immediate medical attention if you have serious symptoms.
+        \n
+        \nOn average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.
+    </string>
+    <string name="tfn">
+        Arunachal Pradesh:
+        \n9436055743
+        \n
+        \nState Helpline Numbers:
+        \n\t+91-360-2292774
+        \n\t+91-360-2292775
+        \n\t+91-360-2292777
+        \n
+        \nCentral helpline no for corona virus:
+        \n+91-11-23978046
+        \n
+        \nToll Free Numbers:
+        \n\t104
+        \n\t1075
+    </string>
+    <string name="cow">
+        Confirmed:
+        Deaths:
+        Recovered:
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="names">
+        <item>Andaman and Nicobar Islands	</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh	</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadar Nagar Haveli</item>
+        <item>Delhi	</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh	</item>
+        <item>Jammu and Kashmir	</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Ladakh</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Odisha</item>
+        <item>Puducherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Tamil Nadu</item>
+        <item>Telengana</item>
+        <item>Tripura</item>
+        <item>Uttarakhand</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+</resources>

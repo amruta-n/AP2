@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <menu>
+            <item android:id="@+id/count"
+                android:title="Live Count" />
+
+            <item android:id="@+id/about"
+                android:title="About" />
+
+            <item android:id="@+id/symptoms"
+                android:title="Symptoms"/>
+
+            <item android:id="@+id/precautions"
+                android:title="Precautions"/>
+
+            <item android:id="@+id/ref"
+                android:title="References"/>
+
+            <item android:id="@+id/tollfree"
+                android:title="Toll-free number"/>
+
+            <item android:id="@+id/donate"
+                android:title="Donate"/>
+
+        </menu>
+    </item>
+
+
+</menu>
